@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>科代表村哥</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+a:link {
+	color: #268AE3;
+}
+a:visited {
+	color: #268AE3;
+}
+a {
+	font-family: "黑体";
+}
+body,td,th {
+	font-family: "黑体";
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "黑体";
+}
+</style>
+</head>
+
+<body>
+<table width="291" border="0">
+  <tbody>
+    <tr>
+      <td width="80" height="40" style="text-align: center"><h2><a href="http://kdbcg.github.io">主页</a></h2></td>
+      <td width="40" style="text-align: center"><img src="https://qlogo4.store.qq.com/qzone/1015365219/1015365219/100?1734318352" width="30" height="30" alt=""/></td>
+      <td width="213"><h2>&nbsp;课代表村哥</h2></td>
+    </tr>
+  </tbody>
+</table>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<hr>
+<!-- TemplateEndEditable -->
+</body>
+</html>
